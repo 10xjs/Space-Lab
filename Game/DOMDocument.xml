@@ -1,0 +1,461 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#666666" width="600" frameRate="120" currentTimeline="1" xflVersion="2.0" creatorInfo="Adobe Flash Professional CS5" platform="Macintosh" versionInfo="Saved by Adobe Flash Macintosh 11.0 build 485" majorVersion="11" buildNumber="485" viewAngle3D="59.1837342884091" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+     <folders>
+          <DOMFolderItem name="Sounds" itemID="4e911b06-00001860" isExpanded="true"/>
+          <DOMFolderItem name="Sounds/Physics" itemID="4e911b1f-00001864" isExpanded="true"/>
+          <DOMFolderItem name="Sounds/Physics/Concrete" itemID="4e91ffb7-0000059c" isExpanded="true"/>
+          <DOMFolderItem name="Sounds/Physics/Glass" itemID="4e91f66f-00000470" isExpanded="true"/>
+          <DOMFolderItem name="Sounds/Physics/Metal" itemID="4e91f583-00000282" isExpanded="true"/>
+          <DOMFolderItem name="Sounds/Physics/Rubber" itemID="4e91fef1-00000511" isExpanded="true"/>
+          <DOMFolderItem name="Sounds/Physics/Wood" itemID="4e91f4e2-0000027e" isExpanded="true"/>
+     </folders>
+     <media>
+          <DOMSoundItem name="Sounds/Physics/Concrete/concrete_block_impact_hard1.wav" itemID="4e92009d-0000059f" linkageExportForAS="true" linkageClassName="SoundConcreteBlockImpactHard1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/concrete_block_impact_hard1.wav" sourceLastImported="1318191078" sourcePlatform="macintosh" externalFileSize="23544" href="Sounds/Physics/Concrete/concrete_block_impact_hard1.wav" soundDataHRef="M 230 1318191010.dat" format="22kHz 16bit Mono" sampleCount="11711"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/concrete_block_impact_hard2.wav" itemID="4e92009d-000005a0" linkageExportForAS="true" linkageClassName="SoundConcreteBlockImpactHard2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/concrete_block_impact_hard2.wav" sourceLastImported="1318191080" sourcePlatform="macintosh" externalFileSize="13304" href="Sounds/Physics/Concrete/concrete_block_impact_hard2.wav" soundDataHRef="M 229 1318191010.dat" format="22kHz 16bit Mono" sampleCount="6591"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/concrete_block_impact_hard3.wav" itemID="4e92009d-000005a1" linkageExportForAS="true" linkageClassName="SoundConcreteBlockImpactHard3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/concrete_block_impact_hard3.wav" sourceLastImported="1318191083" sourcePlatform="macintosh" externalFileSize="13576" href="Sounds/Physics/Concrete/concrete_block_impact_hard3.wav" soundDataHRef="M 228 1318191010.dat" format="22kHz 16bit Mono" sampleCount="6727"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/concrete_break2.wav" itemID="4e92009d-000005a2" linkageExportForAS="true" linkageClassName="SoundConcreteBreak2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/concrete_break2.wav" sourceLastImported="1318192626" sourcePlatform="macintosh" externalFileSize="109338" href="Sounds/Physics/Concrete/concrete_break2.wav" soundDataHRef="M 227 1318191003.dat" format="44kHz 16bit Mono" sampleCount="54647"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/concrete_break3.wav" itemID="4e92009d-000005a3" linkageExportForAS="true" linkageClassName="SoundConcreteBreak3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/concrete_break3.wav" sourceLastImported="1318191103" sourcePlatform="macintosh" externalFileSize="101836" href="Sounds/Physics/Concrete/concrete_break3.wav" soundDataHRef="M 226 1318191003.dat" format="44kHz 16bit Mono" sampleCount="50896"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/concrete_impact_bullet1.wav" itemID="4e92009d-000005a4" linkageExportForAS="true" linkageClassName="SoundConcreteImpactBullet1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/concrete_impact_bullet1.wav" sourceLastImported="1318192644" sourcePlatform="macintosh" externalFileSize="149434" href="Sounds/Physics/Concrete/concrete_impact_bullet1.wav" soundDataHRef="M 225 1318191003.dat" format="44kHz 16bit Mono" sampleCount="74641"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/concrete_impact_bullet2.wav" itemID="4e92009e-000005a5" linkageExportForAS="true" linkageClassName="SoundConcreteImpactBullet2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/concrete_impact_bullet2.wav" sourceLastImported="1318191117" sourcePlatform="macintosh" externalFileSize="144150" href="Sounds/Physics/Concrete/concrete_impact_bullet2.wav" soundDataHRef="M 224 1318191003.dat" format="44kHz 16bit Mono" sampleCount="71999"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/concrete_impact_bullet3.wav" itemID="4e92009e-000005a6" linkageExportForAS="true" linkageClassName="SoundConcreteImpactBullet3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/concrete_impact_bullet3.wav" sourceLastImported="1318191119" sourcePlatform="macintosh" externalFileSize="68040" href="Sounds/Physics/Concrete/concrete_impact_bullet3.wav" soundDataHRef="M 223 1318191003.dat" format="44kHz 16bit Mono" sampleCount="33944"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/concrete_impact_bullet4.wav" itemID="4e92009e-000005a7" linkageExportForAS="true" linkageClassName="SoundConcreteImpactBullet4" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/concrete_impact_bullet4.wav" sourceLastImported="1318191122" sourcePlatform="macintosh" externalFileSize="113858" href="Sounds/Physics/Concrete/concrete_impact_bullet4.wav" soundDataHRef="M 222 1318191003.dat" format="44kHz 16bit Mono" sampleCount="56853"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/concrete_impact_hard1.wav" itemID="4e92009e-000005a8" linkageExportForAS="true" linkageClassName="SoundConcreteImpactHard1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/concrete_impact_hard1.wav" sourceLastImported="1318192711" sourcePlatform="macintosh" externalFileSize="30534" href="Sounds/Physics/Concrete/concrete_impact_hard1.wav" soundDataHRef="M 221 1318191003.dat" format="44kHz 16bit Mono" sampleCount="15245"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/concrete_impact_hard2.wav" itemID="4e92009e-000005a9" linkageExportForAS="true" linkageClassName="SoundConcreteImpactHard2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/concrete_impact_hard2.wav" sourceLastImported="1318191131" sourcePlatform="macintosh" externalFileSize="29254" href="Sounds/Physics/Concrete/concrete_impact_hard2.wav" soundDataHRef="M 220 1318191003.dat" format="44kHz 16bit Mono" sampleCount="14605"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/concrete_impact_hard3.wav" itemID="4e92009e-000005aa" linkageExportForAS="true" linkageClassName="SoundConcreteImpactHard3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/concrete_impact_hard3.wav" sourceLastImported="1318191134" sourcePlatform="macintosh" externalFileSize="25264" href="Sounds/Physics/Concrete/concrete_impact_hard3.wav" soundDataHRef="M 219 1318191003.dat" format="44kHz 16bit Mono" sampleCount="12610"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/concrete_impact_soft1.wav" itemID="4e92009e-000005ab" linkageExportForAS="true" linkageClassName="SoundConcreteImpactSoft1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/concrete_impact_soft1.wav" sourceLastImported="1318191138" sourcePlatform="macintosh" externalFileSize="27244" href="Sounds/Physics/Concrete/concrete_impact_soft1.wav" soundDataHRef="M 218 1318191003.dat" format="44kHz 16bit Mono" sampleCount="13600"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/concrete_impact_soft2.wav" itemID="4e92009e-000005ac" linkageExportForAS="true" linkageClassName="SoundConcreteImpactSoft2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/concrete_impact_soft2.wav" sourceLastImported="1318191140" sourcePlatform="macintosh" externalFileSize="17420" href="Sounds/Physics/Concrete/concrete_impact_soft2.wav" soundDataHRef="M 217 1318191003.dat" format="44kHz 16bit Mono" sampleCount="8688"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/concrete_impact_soft3.wav" itemID="4e92009e-000005ad" linkageExportForAS="true" linkageClassName="SoundConcreteImpactSoft3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/concrete_impact_soft3.wav" sourceLastImported="1318191142" sourcePlatform="macintosh" externalFileSize="28742" href="Sounds/Physics/Concrete/concrete_impact_soft3.wav" soundDataHRef="M 216 1318191003.dat" format="44kHz 16bit Mono" sampleCount="14349"/>
+          <DOMSoundItem name="Sounds/Physics/Glass/glass_impact_bullet1.wav" itemID="4e92009e-000005ae" linkageExportForAS="true" linkageClassName="SoundGlassImpactBullet1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Glass/glass_impact_bullet1.wav" sourceLastImported="1318192884" sourcePlatform="macintosh" externalFileSize="85014" href="Sounds/Physics/Glass/glass_impact_bullet1.wav" soundDataHRef="M 169 1318188689.dat" format="44kHz 16bit Mono" sampleCount="42442"/>
+          <DOMSoundItem name="Sounds/Physics/Glass/glass_impact_bullet2.wav" itemID="4e92009e-000005af" linkageExportForAS="true" linkageClassName="SoundGlassImpactBullet2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Glass/glass_impact_bullet2.wav" sourceLastImported="1318191213" sourcePlatform="macintosh" externalFileSize="96644" href="Sounds/Physics/Glass/glass_impact_bullet2.wav" soundDataHRef="M 170 1318188690.dat" format="44kHz 16bit Mono" sampleCount="48257"/>
+          <DOMSoundItem name="Sounds/Physics/Glass/glass_impact_bullet3.wav" itemID="4e92009e-000005b0" linkageExportForAS="true" linkageClassName="SoundGlassImpactBullet3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Glass/glass_impact_bullet3.wav" sourceLastImported="1318191215" sourcePlatform="macintosh" externalFileSize="99114" href="Sounds/Physics/Glass/glass_impact_bullet3.wav" soundDataHRef="M 171 1318188690.dat" format="44kHz 16bit Mono" sampleCount="49492"/>
+          <DOMSoundItem name="Sounds/Physics/Glass/glass_impact_bullet4.wav" itemID="4e92009e-000005b1" linkageExportForAS="true" linkageClassName="SoundGlassImpactBullet4" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Glass/glass_impact_bullet4.wav" sourceLastImported="1318191219" sourcePlatform="macintosh" externalFileSize="122404" href="Sounds/Physics/Glass/glass_impact_bullet4.wav" soundDataHRef="M 172 1318188690.dat" format="44kHz 16bit Mono" sampleCount="61137"/>
+          <DOMSoundItem name="Sounds/Physics/Glass/glass_impact_hard1.wav" itemID="4e92009e-000005b2" linkageExportForAS="true" linkageClassName="SoundGlassImpactHard1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Glass/glass_impact_hard1.wav" sourceLastImported="1318191226" sourcePlatform="macintosh" externalFileSize="15696" href="Sounds/Physics/Glass/glass_impact_hard1.wav" soundDataHRef="M 173 1318188690.dat" format="44kHz 16bit Mono" sampleCount="7826"/>
+          <DOMSoundItem name="Sounds/Physics/Glass/glass_impact_hard2.wav" itemID="4e92009e-000005b3" linkageExportForAS="true" linkageClassName="SoundGlassImpactHard2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Glass/glass_impact_hard2.wav" sourceLastImported="1318191228" sourcePlatform="macintosh" externalFileSize="12672" href="Sounds/Physics/Glass/glass_impact_hard2.wav" soundDataHRef="M 174 1318188690.dat" format="44kHz 16bit Mono" sampleCount="6314"/>
+          <DOMSoundItem name="Sounds/Physics/Glass/glass_impact_hard3.wav" itemID="4e92009e-000005b4" linkageExportForAS="true" linkageClassName="SoundGlassImpactHard3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Glass/glass_impact_hard3.wav" sourceLastImported="1318191230" sourcePlatform="macintosh" externalFileSize="20698" href="Sounds/Physics/Glass/glass_impact_hard3.wav" soundDataHRef="M 175 1318188690.dat" format="44kHz 16bit Mono" sampleCount="10327"/>
+          <DOMSoundItem name="Sounds/Physics/Glass/glass_impact_soft1.wav" itemID="4e92009e-000005b5" linkageExportForAS="true" linkageClassName="SoundGlassImpactSoft1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Glass/glass_impact_soft1.wav" sourceLastImported="1318191239" sourcePlatform="macintosh" externalFileSize="21562" href="Sounds/Physics/Glass/glass_impact_soft1.wav" soundDataHRef="M 176 1318188690.dat" format="44kHz 16bit Mono" sampleCount="10759"/>
+          <DOMSoundItem name="Sounds/Physics/Glass/glass_impact_soft2.wav" itemID="4e92009e-000005b6" linkageExportForAS="true" linkageClassName="SoundGlassImpactSoft2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Glass/glass_impact_soft2.wav" sourceLastImported="1318191241" sourcePlatform="macintosh" externalFileSize="23468" href="Sounds/Physics/Glass/glass_impact_soft2.wav" soundDataHRef="M 177 1318188690.dat" format="44kHz 16bit Mono" sampleCount="11712"/>
+          <DOMSoundItem name="Sounds/Physics/Glass/glass_impact_soft3.wav" itemID="4e92009e-000005b7" linkageExportForAS="true" linkageClassName="SoundGlassImpactSoft3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Glass/glass_impact_soft3.wav" sourceLastImported="1318191244" sourcePlatform="macintosh" externalFileSize="14746" href="Sounds/Physics/Glass/glass_impact_soft3.wav" soundDataHRef="M 178 1318188690.dat" format="44kHz 16bit Mono" sampleCount="7351"/>
+          <DOMSoundItem name="Sounds/Physics/Glass/glass_sheet_break1.wav" itemID="4e92009e-000005b8" linkageExportForAS="true" linkageClassName="SoundGlassSheetBreak1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Glass/glass_sheet_break1.wav" sourceLastImported="1318191256" sourcePlatform="macintosh" externalFileSize="158692" href="Sounds/Physics/Glass/glass_sheet_break1.wav" soundDataHRef="M 186 1318188690.dat" format="44kHz 16bit Mono" sampleCount="79281"/>
+          <DOMSoundItem name="Sounds/Physics/Glass/glass_sheet_break2.wav" itemID="4e92009e-000005b9" linkageExportForAS="true" linkageClassName="SoundGlassSheetBreak2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Glass/glass_sheet_break2.wav" sourceLastImported="1318191258" sourcePlatform="macintosh" externalFileSize="221842" href="Sounds/Physics/Glass/glass_sheet_break2.wav" soundDataHRef="M 187 1318188690.dat" format="44kHz 16bit Mono" sampleCount="110856"/>
+          <DOMSoundItem name="Sounds/Physics/Glass/glass_sheet_break3.wav" itemID="4e92009e-000005ba" linkageExportForAS="true" linkageClassName="SoundGlassSheetBreak3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Glass/glass_sheet_break3.wav" sourceLastImported="1318191260" sourcePlatform="macintosh" externalFileSize="105644" href="Sounds/Physics/Glass/glass_sheet_break3.wav" soundDataHRef="M 188 1318188690.dat" format="44kHz 16bit Mono" sampleCount="52757"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_box_break1.wav" itemID="4e92009e-000005bb" linkageExportForAS="true" linkageClassName="SoundMetalBoxBreak1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_box_break1.wav" sourceLastImported="1318193099" sourcePlatform="macintosh" externalFileSize="25402" href="Sounds/Physics/Metal/metal_box_break1.wav" soundDataHRef="M 56 1318188437.dat" format="22kHz 8bit Mono" sampleCount="25280"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_box_break2.wav" itemID="4e92009e-000005bc" linkageExportForAS="true" linkageClassName="SoundMetalBoxBreak2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_box_break2.wav" sourceLastImported="1318191295" sourcePlatform="macintosh" externalFileSize="29114" href="Sounds/Physics/Metal/metal_box_break2.wav" soundDataHRef="M 57 1318188437.dat" format="22kHz 8bit Mono" sampleCount="28991"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_box_impact_bullet1.wav" itemID="4e92009e-000005bd" linkageExportForAS="true" linkageClassName="SoundMetalBoxImpactBullet1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_box_impact_bullet1.wav" sourceLastImported="1318191416" sourcePlatform="macintosh" externalFileSize="33476" href="Sounds/Physics/Metal/metal_box_impact_bullet1.wav" soundDataHRef="M 62 1318188437.dat" format="44kHz 16bit Mono" sampleCount="16716"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_box_impact_bullet2.wav" itemID="4e92009e-000005be" linkageExportForAS="true" linkageClassName="SoundMetalBoxImpactBullet2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_box_impact_bullet2.wav" sourceLastImported="1318200941" sourcePlatform="macintosh" externalFileSize="30148" href="Sounds/Physics/Metal/metal_box_impact_bullet2.wav" soundDataHRef="M 63 1318188437.dat" format="44kHz 16bit Mono" sampleCount="15052"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_box_impact_bullet3.wav" itemID="4e92009e-000005bf" linkageExportForAS="true" linkageClassName="SoundMetalBoxImpactBullet3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_box_impact_bullet3.wav" sourceLastImported="1318200944" sourcePlatform="macintosh" externalFileSize="30144" href="Sounds/Physics/Metal/metal_box_impact_bullet3.wav" soundDataHRef="M 64 1318188437.dat" format="44kHz 16bit Mono" sampleCount="15050"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_box_impact_hard1.wav" itemID="4e92009e-000005c0" linkageExportForAS="true" linkageClassName="SoundMetalBoxImpactHard1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_box_impact_hard1.wav" sourceLastImported="1318200947" sourcePlatform="macintosh" externalFileSize="63790" href="Sounds/Physics/Metal/metal_box_impact_hard1.wav" soundDataHRef="M 65 1318188437.dat" format="44kHz 16bit Mono" sampleCount="31873"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_box_impact_hard2.wav" itemID="4e92009e-000005c1" linkageExportForAS="true" linkageClassName="SoundMetalBoxImpactHard2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_box_impact_hard2.wav" sourceLastImported="1318200949" sourcePlatform="macintosh" externalFileSize="58158" href="Sounds/Physics/Metal/metal_box_impact_hard2.wav" soundDataHRef="M 66 1318188437.dat" format="44kHz 16bit Mono" sampleCount="29057"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_box_impact_hard3.wav" itemID="4e92009e-000005c2" linkageExportForAS="true" linkageClassName="SoundMetalBoxImpactHard3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_box_impact_hard3.wav" sourceLastImported="1318200950" sourcePlatform="macintosh" externalFileSize="53036" href="Sounds/Physics/Metal/metal_box_impact_hard3.wav" soundDataHRef="M 67 1318188437.dat" format="44kHz 16bit Mono" sampleCount="26496"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_box_impact_soft1.wav" itemID="4e92009e-000005c3" linkageExportForAS="true" linkageClassName="SoundMetalBoxImpactSoft1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_box_impact_soft1.wav" sourceLastImported="1318200953" sourcePlatform="macintosh" externalFileSize="46894" href="Sounds/Physics/Metal/metal_box_impact_soft1.wav" soundDataHRef="M 68 1318188437.dat" format="44kHz 16bit Mono" sampleCount="23425"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_box_impact_soft2.wav" itemID="4e92009e-000005c4" linkageExportForAS="true" linkageClassName="SoundMetalBoxImpactSoft2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_box_impact_soft2.wav" sourceLastImported="1318200955" sourcePlatform="macintosh" externalFileSize="29068" href="Sounds/Physics/Metal/metal_box_impact_soft2.wav" soundDataHRef="M 69 1318188437.dat" format="44kHz 16bit Mono" sampleCount="14512"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_box_impact_soft3.wav" itemID="4e92009e-000005c5" linkageExportForAS="true" linkageClassName="SoundMetalBoxImpactSoft3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_box_impact_soft3.wav" sourceLastImported="1318200960" sourcePlatform="macintosh" externalFileSize="39980" href="Sounds/Physics/Metal/metal_box_impact_soft3.wav" soundDataHRef="M 70 1318188438.dat" format="44kHz 16bit Mono" sampleCount="19968"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_solid_impact_bullet1.wav" itemID="4e92009e-000005c6" linkageExportForAS="true" linkageClassName="SoundMetalSolidImpactBullet1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_solid_impact_bullet1.wav" sourceLastImported="1318191454" sourcePlatform="macintosh" externalFileSize="39178" href="Sounds/Physics/Metal/metal_solid_impact_bullet1.wav" soundDataHRef="M 123 1318188439.dat" format="44kHz 16bit Mono" sampleCount="19524"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_solid_impact_bullet2.wav" itemID="4e92009e-000005c7" linkageExportForAS="true" linkageClassName="SoundMetalSolidImpactBullet2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_solid_impact_bullet2.wav" sourceLastImported="1318191457" sourcePlatform="macintosh" externalFileSize="59532" href="Sounds/Physics/Metal/metal_solid_impact_bullet2.wav" soundDataHRef="M 124 1318188439.dat" format="44kHz 16bit Mono" sampleCount="29701"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_solid_impact_bullet3.wav" itemID="4e92009e-000005c8" linkageExportForAS="true" linkageClassName="SoundMetalSolidImpactBullet3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_solid_impact_bullet3.wav" sourceLastImported="1318191459" sourcePlatform="macintosh" externalFileSize="42796" href="Sounds/Physics/Metal/metal_solid_impact_bullet3.wav" soundDataHRef="M 125 1318188439.dat" format="44kHz 16bit Mono" sampleCount="21333"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_solid_impact_bullet4.wav" itemID="4e92009e-000005c9" linkageExportForAS="true" linkageClassName="SoundMetalSolidImpactBullet4" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_solid_impact_bullet4.wav" sourceLastImported="1318191461" sourcePlatform="macintosh" externalFileSize="60464" href="Sounds/Physics/Metal/metal_solid_impact_bullet4.wav" soundDataHRef="M 126 1318188439.dat" format="44kHz 16bit Mono" sampleCount="30167"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_solid_impact_hard1.wav" itemID="4e92009e-000005ca" linkageExportForAS="true" linkageClassName="SoundMetalSolidImpactHard1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_solid_impact_hard1.wav" sourceLastImported="1318191462" sourcePlatform="macintosh" externalFileSize="24238" href="Sounds/Physics/Metal/metal_solid_impact_hard1.wav" soundDataHRef="M 127 1318188439.dat" format="44kHz 16bit Mono" sampleCount="12043"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_solid_impact_hard4.wav" itemID="4e92009e-000005cb" linkageExportForAS="true" linkageClassName="SoundMetalSolidImpactHard4" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_solid_impact_hard4.wav" sourceLastImported="1318191464" sourcePlatform="macintosh" externalFileSize="55056" href="Sounds/Physics/Metal/metal_solid_impact_hard4.wav" soundDataHRef="M 128 1318188439.dat" format="44kHz 16bit Mono" sampleCount="27506"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_solid_impact_hard5.wav" itemID="4e92009e-000005cc" linkageExportForAS="true" linkageClassName="SoundMetalSolidImpactHard5" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_solid_impact_hard5.wav" sourceLastImported="1318191466" sourcePlatform="macintosh" externalFileSize="48838" href="Sounds/Physics/Metal/metal_solid_impact_hard5.wav" soundDataHRef="M 129 1318188439.dat" format="44kHz 16bit Mono" sampleCount="24397"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_solid_impact_soft1.wav" itemID="4e92009e-000005cd" linkageExportForAS="true" linkageClassName="SoundMetalSolidImpactSoft1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_solid_impact_soft1.wav" sourceLastImported="1318191468" sourcePlatform="macintosh" externalFileSize="27322" href="Sounds/Physics/Metal/metal_solid_impact_soft1.wav" soundDataHRef="M 130 1318188439.dat" format="44kHz 16bit Mono" sampleCount="13639"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_solid_impact_soft2.wav" itemID="4e92009e-000005ce" linkageExportForAS="true" linkageClassName="SoundMetalSolidImpactSoft2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_solid_impact_soft2.wav" sourceLastImported="1318191471" sourcePlatform="macintosh" externalFileSize="40090" href="Sounds/Physics/Metal/metal_solid_impact_soft2.wav" soundDataHRef="M 131 1318188439.dat" format="44kHz 16bit Mono" sampleCount="20023"/>
+          <DOMSoundItem name="Sounds/Physics/Metal/metal_solid_impact_soft3.wav" itemID="4e92009e-000005cf" linkageExportForAS="true" linkageClassName="SoundMetalSolidImpactSoft3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Metal/metal_solid_impact_soft3.wav" sourceLastImported="1318191475" sourcePlatform="macintosh" externalFileSize="49636" href="Sounds/Physics/Metal/metal_solid_impact_soft3.wav" soundDataHRef="M 132 1318188439.dat" format="44kHz 16bit Mono" sampleCount="24796"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/rock_impact_hard1.wav" itemID="4e92009e-000005d0" linkageExportForAS="true" linkageClassName="SoundRockImpactHard1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/rock_impact_hard1.wav" sourceLastImported="1318192816" sourcePlatform="macintosh" externalFileSize="17334" href="Sounds/Physics/Concrete/rock_impact_hard1.wav" soundDataHRef="M 215 1318190969.dat" format="44kHz 16bit Mono" sampleCount="8645"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/rock_impact_hard2.wav" itemID="4e92009e-000005d1" linkageExportForAS="true" linkageClassName="SoundRockImpactHard2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/rock_impact_hard2.wav" sourceLastImported="1318191158" sourcePlatform="macintosh" externalFileSize="20934" href="Sounds/Physics/Concrete/rock_impact_hard2.wav" soundDataHRef="M 214 1318190969.dat" format="44kHz 16bit Mono" sampleCount="10445"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/rock_impact_hard3.wav" itemID="4e92009e-000005d2" linkageExportForAS="true" linkageClassName="SoundRockImpactHard3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/rock_impact_hard3.wav" sourceLastImported="1318191160" sourcePlatform="macintosh" externalFileSize="10376" href="Sounds/Physics/Concrete/rock_impact_hard3.wav" soundDataHRef="M 213 1318190969.dat" format="44kHz 16bit Mono" sampleCount="5166"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/rock_impact_hard4.wav" itemID="4e92009e-000005d3" linkageExportForAS="true" linkageClassName="SoundRockImpactHard4" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/rock_impact_hard4.wav" sourceLastImported="1318191162" sourcePlatform="macintosh" externalFileSize="15490" href="Sounds/Physics/Concrete/rock_impact_hard4.wav" soundDataHRef="M 212 1318190969.dat" format="44kHz 16bit Mono" sampleCount="7723"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/rock_impact_hard5.wav" itemID="4e92009e-000005d4" linkageExportForAS="true" linkageClassName="SoundRockImpactHard5" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/rock_impact_hard5.wav" sourceLastImported="1318191164" sourcePlatform="macintosh" externalFileSize="33338" href="Sounds/Physics/Concrete/rock_impact_hard5.wav" soundDataHRef="M 211 1318190969.dat" format="44kHz 16bit Mono" sampleCount="16647"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/rock_impact_hard6.wav" itemID="4e92009e-000005d5" linkageExportForAS="true" linkageClassName="SoundRockImpactHard6" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/rock_impact_hard6.wav" sourceLastImported="1318191166" sourcePlatform="macintosh" externalFileSize="16590" href="Sounds/Physics/Concrete/rock_impact_hard6.wav" soundDataHRef="M 210 1318190969.dat" format="44kHz 16bit Mono" sampleCount="8273"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/rock_impact_soft1.wav" itemID="4e92009e-000005d6" linkageExportForAS="true" linkageClassName="SoundRockImpactSoft1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/rock_impact_soft1.wav" sourceLastImported="1318191174" sourcePlatform="macintosh" externalFileSize="17420" href="Sounds/Physics/Concrete/rock_impact_soft1.wav" soundDataHRef="M 209 1318190969.dat" format="44kHz 16bit Mono" sampleCount="8688"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/rock_impact_soft2.wav" itemID="4e92009e-000005d7" linkageExportForAS="true" linkageClassName="SoundRockImpactSoft2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/rock_impact_soft2.wav" sourceLastImported="1318191176" sourcePlatform="macintosh" externalFileSize="27724" href="Sounds/Physics/Concrete/rock_impact_soft2.wav" soundDataHRef="M 208 1318190969.dat" format="44kHz 16bit Mono" sampleCount="13840"/>
+          <DOMSoundItem name="Sounds/Physics/Concrete/rock_impact_soft3.wav" itemID="4e92009e-000005d8" linkageExportForAS="true" linkageClassName="SoundRockImpactSoft3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Concrete/rock_impact_soft3.wav" sourceLastImported="1318191178" sourcePlatform="macintosh" externalFileSize="28742" href="Sounds/Physics/Concrete/rock_impact_soft3.wav" soundDataHRef="M 207 1318190969.dat" format="44kHz 16bit Mono" sampleCount="14349"/>
+          <DOMSoundItem name="Sounds/Physics/Rubber/rubber_tire_impact_bullet1.wav" itemID="4e92009e-000005d9" linkageExportForAS="true" linkageClassName="SoundRubberTireImpactBullet1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Rubber/rubber_tire_impact_bullet1.wav" sourceLastImported="1318191393" sourcePlatform="macintosh" externalFileSize="19992" href="Sounds/Physics/Rubber/rubber_tire_impact_bullet1.wav" soundDataHRef="M 206 1318190870.dat" format="44kHz 16bit Mono" sampleCount="9974"/>
+          <DOMSoundItem name="Sounds/Physics/Rubber/rubber_tire_impact_bullet2.wav" itemID="4e92009e-000005da" linkageExportForAS="true" linkageClassName="SoundRubberTireImpactBullet2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Rubber/rubber_tire_impact_bullet2.wav" sourceLastImported="1318191397" sourcePlatform="macintosh" externalFileSize="31738" href="Sounds/Physics/Rubber/rubber_tire_impact_bullet2.wav" soundDataHRef="M 205 1318190870.dat" format="44kHz 16bit Mono" sampleCount="15847"/>
+          <DOMSoundItem name="Sounds/Physics/Rubber/rubber_tire_impact_bullet3.wav" itemID="4e92009e-000005db" linkageExportForAS="true" linkageClassName="SoundRubberTireImpactBullet3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Rubber/rubber_tire_impact_bullet3.wav" sourceLastImported="1318191481" sourcePlatform="macintosh" externalFileSize="29744" href="Sounds/Physics/Rubber/rubber_tire_impact_bullet3.wav" soundDataHRef="M 204 1318190870.dat" format="44kHz 16bit Mono" sampleCount="14850"/>
+          <DOMSoundItem name="Sounds/Physics/Rubber/rubber_tire_impact_hard1.wav" itemID="4e92009e-000005dc" linkageExportForAS="true" linkageClassName="SoundRubberTireImpactHard1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Rubber/rubber_tire_impact_hard1.wav" sourceLastImported="1318191489" sourcePlatform="macintosh" externalFileSize="63548" href="Sounds/Physics/Rubber/rubber_tire_impact_hard1.wav" soundDataHRef="M 203 1318190866.dat" format="44kHz 16bit Mono" sampleCount="31752"/>
+          <DOMSoundItem name="Sounds/Physics/Rubber/rubber_tire_impact_hard2.wav" itemID="4e92009e-000005dd" linkageExportForAS="true" linkageClassName="SoundRubberTireImpactHard2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Rubber/rubber_tire_impact_hard2.wav" sourceLastImported="1318191491" sourcePlatform="macintosh" externalFileSize="46252" href="Sounds/Physics/Rubber/rubber_tire_impact_hard2.wav" soundDataHRef="M 202 1318190866.dat" format="44kHz 16bit Mono" sampleCount="23104"/>
+          <DOMSoundItem name="Sounds/Physics/Rubber/rubber_tire_impact_hard3.wav" itemID="4e92009e-000005de" linkageExportForAS="true" linkageClassName="SoundRubberTireImpactHard3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Rubber/rubber_tire_impact_hard3.wav" sourceLastImported="1318191493" sourcePlatform="macintosh" externalFileSize="42702" href="Sounds/Physics/Rubber/rubber_tire_impact_hard3.wav" soundDataHRef="M 201 1318190866.dat" format="44kHz 16bit Mono" sampleCount="21329"/>
+          <DOMSoundItem name="Sounds/Physics/Rubber/rubber_tire_impact_soft1.wav" itemID="4e92009e-000005df" linkageExportForAS="true" linkageClassName="SoundRubberTireImpactSoft1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Rubber/rubber_tire_impact_soft1.wav" sourceLastImported="1318191498" sourcePlatform="macintosh" externalFileSize="67694" href="Sounds/Physics/Rubber/rubber_tire_impact_soft1.wav" soundDataHRef="M 200 1318190866.dat" format="44kHz 16bit Mono" sampleCount="33825"/>
+          <DOMSoundItem name="Sounds/Physics/Rubber/rubber_tire_impact_soft2.wav" itemID="4e92009e-000005e0" linkageExportForAS="true" linkageClassName="SoundRubberTireImpactSoft2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Rubber/rubber_tire_impact_soft2.wav" sourceLastImported="1318191500" sourcePlatform="macintosh" externalFileSize="44102" href="Sounds/Physics/Rubber/rubber_tire_impact_soft2.wav" soundDataHRef="M 199 1318190866.dat" format="44kHz 16bit Mono" sampleCount="22029"/>
+          <DOMSoundItem name="Sounds/Physics/Rubber/rubber_tire_impact_soft3.wav" itemID="4e92009f-000005e1" linkageExportForAS="true" linkageClassName="SoundRubberTireImpactSoft3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Rubber/rubber_tire_impact_soft3.wav" sourceLastImported="1318191501" sourcePlatform="macintosh" externalFileSize="50138" href="Sounds/Physics/Rubber/rubber_tire_impact_soft3.wav" soundDataHRef="M 198 1318190866.dat" format="44kHz 16bit Mono" sampleCount="25047"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_box_break1.wav" itemID="4e92009f-000005e2" linkageExportForAS="true" linkageClassName="SoundWoodBoxBreak1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_box_break1.wav" sourceLastImported="1318191522" sourcePlatform="macintosh" externalFileSize="90000" href="Sounds/Physics/Wood/wood_box_break1.wav" soundDataHRef="M 3 1318132564.dat" format="44kHz 16bit Mono" sampleCount="44978"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_box_break2.wav" itemID="4e92009f-000005e3" linkageExportForAS="true" linkageClassName="SoundWoodBoxBreak2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_box_break2.wav" sourceLastImported="1318191523" sourcePlatform="macintosh" externalFileSize="118716" href="Sounds/Physics/Wood/wood_box_break2.wav" soundDataHRef="M 4 1318132564.dat" format="44kHz 16bit Mono" sampleCount="59336"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_box_impact_bullet1.wav" itemID="4e92009f-000005e4" linkageExportForAS="true" linkageClassName="SoundWoodBoxImpactBullet1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_box_impact_bullet1.wav" sourceLastImported="1318191532" sourcePlatform="macintosh" externalFileSize="45848" href="Sounds/Physics/Wood/wood_box_impact_bullet1.wav" soundDataHRef="M 9 1318132564.dat" format="44kHz 16bit Mono" sampleCount="22902"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_box_impact_bullet2.wav" itemID="4e92009f-000005e5" linkageExportForAS="true" linkageClassName="SoundWoodBoxImpactBullet2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_box_impact_bullet2.wav" sourceLastImported="1318191534" sourcePlatform="macintosh" externalFileSize="29546" href="Sounds/Physics/Wood/wood_box_impact_bullet2.wav" soundDataHRef="M 10 1318132564.dat" format="44kHz 16bit Mono" sampleCount="14751"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_box_impact_bullet3.wav" itemID="4e92009f-000005e6" linkageExportForAS="true" linkageClassName="SoundWoodBoxImpactBullet3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_box_impact_bullet3.wav" sourceLastImported="1318191535" sourcePlatform="macintosh" externalFileSize="36192" href="Sounds/Physics/Wood/wood_box_impact_bullet3.wav" soundDataHRef="M 11 1318132565.dat" format="44kHz 16bit Mono" sampleCount="18074"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_box_impact_bullet4.wav" itemID="4e92009f-000005e7" linkageExportForAS="true" linkageClassName="SoundWoodBoxImpactBullet4" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_box_impact_bullet4.wav" sourceLastImported="1318191537" sourcePlatform="macintosh" externalFileSize="30092" href="Sounds/Physics/Wood/wood_box_impact_bullet4.wav" soundDataHRef="M 12 1318132565.dat" format="44kHz 16bit Mono" sampleCount="15024"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_box_impact_hard1.wav" itemID="4e92009f-000005e8" linkageExportForAS="true" linkageClassName="SoundWoodBoxImpactHard1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_box_impact_hard1.wav" sourceLastImported="1318191548" sourcePlatform="macintosh" externalFileSize="18138" href="Sounds/Physics/Wood/wood_box_impact_hard1.wav" soundDataHRef="M 13 1318132565.dat" format="22kHz 16bit Mono" sampleCount="8993"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_box_impact_hard2.wav" itemID="4e916774-0000199d" linkageExportForAS="true" linkageClassName="SoundWoodBoxImpactHard2" sourceExternalFilepath="./LIBRARY/wood_box_impact_hard2.wav" sourceLastImported="1318191551" sourcePlatform="macintosh" externalFileSize="17910" href="Sounds/Physics/Wood/wood_box_impact_hard2.wav" soundDataHRef="M 14 1318132565.dat" format="22kHz 16bit Mono" sampleCount="8879"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_box_impact_hard3.wav" itemID="4e92009f-000005e9" linkageExportForAS="true" linkageClassName="SoundWoodBoxImpactHard3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_box_impact_hard3.wav" sourceLastImported="1318191553" sourcePlatform="macintosh" externalFileSize="23638" href="Sounds/Physics/Wood/wood_box_impact_hard3.wav" soundDataHRef="M 15 1318132565.dat" format="22kHz 16bit Mono" sampleCount="11743"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_box_Impact_hard4.wav" itemID="4e92009f-000005ea" linkageExportForAS="true" linkageClassName="SoundWoodBoxImpactHard4" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_box_Impact_hard4.wav" sourceLastImported="1318191555" sourcePlatform="macintosh" externalFileSize="28228" href="Sounds/Physics/Wood/wood_box_Impact_hard4.wav" soundDataHRef="M 16 1318132565.dat" format="44kHz 16bit Mono" sampleCount="14092"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_box_impact_hard5.wav" itemID="4e92009f-000005eb" linkageExportForAS="true" linkageClassName="SoundWoodBoxImpactHard5" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_box_impact_hard5.wav" sourceLastImported="1318191556" sourcePlatform="macintosh" externalFileSize="28676" href="Sounds/Physics/Wood/wood_box_impact_hard5.wav" soundDataHRef="M 17 1318132565.dat" format="44kHz 16bit Mono" sampleCount="14316"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_box_impact_hard6.wav" itemID="4e916774-000019a1" linkageExportForAS="true" linkageClassName="SoundWoodBoxImpactHard6" sourceExternalFilepath="./LIBRARY/wood_box_impact_hard6.wav" sourceLastImported="1318191558" sourcePlatform="macintosh" externalFileSize="22988" href="Sounds/Physics/Wood/wood_box_impact_hard6.wav" soundDataHRef="M 18 1318132565.dat" format="44kHz 16bit Mono" sampleCount="11472"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_box_impact_soft1.wav" itemID="4e916774-000019a2" linkageExportForAS="true" linkageClassName="SoundWoodBoxImpactSoft1" sourceExternalFilepath="./LIBRARY/wood_box_impact_soft1.wav" sourceLastImported="1318191564" sourcePlatform="macintosh" externalFileSize="43304" href="Sounds/Physics/Wood/wood_box_impact_soft1.wav" soundDataHRef="M 19 1318132565.dat" format="44kHz 16bit Mono" sampleCount="21630"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_box_impact_soft2.wav" itemID="4e916774-000019a3" linkageExportForAS="true" linkageClassName="SoundWoodBoxImpactSoft2" sourceExternalFilepath="./LIBRARY/wood_box_impact_soft2.wav" sourceLastImported="1318191565" sourcePlatform="macintosh" externalFileSize="23498" href="Sounds/Physics/Wood/wood_box_impact_soft2.wav" soundDataHRef="M 20 1318132565.dat" format="44kHz 16bit Mono" sampleCount="11727"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_box_impact_soft3.wav" itemID="4e92009f-000005ec" linkageExportForAS="true" linkageClassName="SoundWoodBoxImpactSoft3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_box_impact_soft3.wav" sourceLastImported="1318191567" sourcePlatform="macintosh" externalFileSize="30884" href="Sounds/Physics/Wood/wood_box_impact_soft3.wav" soundDataHRef="M 21 1318132565.dat" format="44kHz 16bit Mono" sampleCount="15420"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_crate_break1.wav" itemID="4e916774-000019a5" linkageExportForAS="true" linkageClassName="SoundWoodCrateBreak1" sourceExternalFilepath="./LIBRARY/wood_crate_break1.wav" sourceLastImported="1318191576" sourcePlatform="macintosh" externalFileSize="102996" href="Sounds/Physics/Wood/wood_crate_break1.wav" soundDataHRef="M 24 1318132565.dat" format="44kHz 16bit Mono" sampleCount="51476"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_crate_break2.wav" itemID="4e916774-000019a6" linkageExportForAS="true" linkageClassName="SoundWoodCrateBreak2" sourceExternalFilepath="./LIBRARY/wood_crate_break2.wav" sourceLastImported="1318191578" sourcePlatform="macintosh" externalFileSize="120538" href="Sounds/Physics/Wood/wood_crate_break2.wav" soundDataHRef="M 25 1318132565.dat" format="44kHz 16bit Mono" sampleCount="60247"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_crate_break3.wav" itemID="4e916774-000019a7" linkageExportForAS="true" linkageClassName="SoundWoodCrateBreak3" sourceExternalFilepath="./LIBRARY/wood_crate_break3.wav" sourceLastImported="1318191580" sourcePlatform="macintosh" externalFileSize="90958" href="Sounds/Physics/Wood/wood_crate_break3.wav" soundDataHRef="M 26 1318132565.dat" format="44kHz 16bit Mono" sampleCount="45457"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_crate_break4.wav" itemID="4e916774-000019a8" linkageExportForAS="true" linkageClassName="SoundWoodCrateBreak4" sourceExternalFilepath="./LIBRARY/wood_crate_break4.wav" sourceLastImported="1318191583" sourcePlatform="macintosh" externalFileSize="101370" href="Sounds/Physics/Wood/wood_crate_break4.wav" soundDataHRef="M 27 1318132565.dat" format="44kHz 16bit Mono" sampleCount="50663"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_crate_break5.wav" itemID="4e916774-000019a9" linkageExportForAS="true" linkageClassName="SoundWoodCrateBreak5" sourceExternalFilepath="./LIBRARY/wood_crate_break5.wav" sourceLastImported="1318191585" sourcePlatform="macintosh" externalFileSize="65722" href="Sounds/Physics/Wood/wood_crate_break5.wav" soundDataHRef="M 28 1318132565.dat" format="22kHz 16bit Mono" sampleCount="32800"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_crate_impact_hard1.wav" itemID="4e916775-000019aa" linkageExportForAS="true" linkageClassName="SoundWoodCrateImpactHard1" sourceExternalFilepath="./LIBRARY/wood_crate_impact_hard1.wav" sourceLastImported="1318191592" sourcePlatform="macintosh" externalFileSize="32368" href="Sounds/Physics/Wood/wood_crate_impact_hard1.wav" soundDataHRef="M 29 1318132565.dat" format="44kHz 16bit Mono" sampleCount="16162"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_crate_impact_hard2.wav" itemID="4e92009f-000005ed" linkageExportForAS="true" linkageClassName="SoundWoodCrateImpactHard2" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_crate_impact_hard2.wav" sourceLastImported="1318191595" sourcePlatform="macintosh" externalFileSize="57742" href="Sounds/Physics/Wood/wood_crate_impact_hard2.wav" soundDataHRef="M 30 1318132565.dat" format="44kHz 16bit Mono" sampleCount="28849"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_crate_impact_hard3.wav" itemID="4e916775-000019ac" linkageExportForAS="true" linkageClassName="SoundWoodCrateImpactHard3" sourceExternalFilepath="./LIBRARY/wood_crate_impact_hard3.wav" sourceLastImported="1318191596" sourcePlatform="macintosh" externalFileSize="55336" href="Sounds/Physics/Wood/wood_crate_impact_hard3.wav" soundDataHRef="M 31 1318132565.dat" format="44kHz 16bit Mono" sampleCount="27646"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_crate_impact_hard4.wav" itemID="4e92009f-000005ee" linkageExportForAS="true" linkageClassName="SoundWoodCrateImpactHard4" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_crate_impact_hard4.wav" sourceLastImported="1318191600" sourcePlatform="macintosh" externalFileSize="49730" href="Sounds/Physics/Wood/wood_crate_impact_hard4.wav" soundDataHRef="M 32 1318132565.dat" format="44kHz 16bit Mono" sampleCount="24843"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_crate_impact_hard5.wav" itemID="4e916775-000019ae" linkageExportForAS="true" linkageClassName="SoundWoodCrateImpactHard5" sourceExternalFilepath="./LIBRARY/wood_crate_impact_hard5.wav" sourceLastImported="1318191601" sourcePlatform="macintosh" externalFileSize="38794" href="Sounds/Physics/Wood/wood_crate_impact_hard5.wav" soundDataHRef="M 33 1318132565.dat" format="44kHz 16bit Mono" sampleCount="19375"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_crate_impact_soft1.wav" itemID="4e916775-000019af" linkageExportForAS="true" linkageClassName="SoundWoodCrateImpactSoft1" sourceExternalFilepath="./LIBRARY/wood_crate_impact_soft1.wav" sourceLastImported="1318191608" sourcePlatform="macintosh" externalFileSize="56596" href="Sounds/Physics/Wood/wood_crate_impact_soft1.wav" soundDataHRef="M 34 1318132565.dat" format="44kHz 16bit Mono" sampleCount="28276"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_crate_impact_soft2.wav" itemID="4e916775-000019b0" linkageExportForAS="true" linkageClassName="SoundWoodCrateImpactSoft2" sourceExternalFilepath="./LIBRARY/wood_crate_impact_soft2.wav" sourceLastImported="1318191612" sourcePlatform="macintosh" externalFileSize="23498" href="Sounds/Physics/Wood/wood_crate_impact_soft2.wav" soundDataHRef="M 35 1318132565.dat" format="44kHz 16bit Mono" sampleCount="11727"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_crate_impact_soft3.wav" itemID="4e916775-000019b1" linkageExportForAS="true" linkageClassName="SoundWoodCrateImpactSoft3" sourceExternalFilepath="./LIBRARY/wood_crate_impact_soft3.wav" sourceLastImported="1318191614" sourcePlatform="macintosh" externalFileSize="37310" href="Sounds/Physics/Wood/wood_crate_impact_soft3.wav" soundDataHRef="M 36 1318132565.dat" format="44kHz 16bit Mono" sampleCount="18633"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_solid_impact_bullet1.wav" itemID="4e92009f-000005ef" linkageExportForAS="true" linkageClassName="SoundWoodSolidImpactBullet1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_solid_impact_bullet1.wav" sourceLastImported="1318191636" sourcePlatform="macintosh" externalFileSize="19786" href="Sounds/Physics/Wood/wood_solid_impact_bullet1.wav" soundDataHRef="M 59 1318132566.dat" format="44kHz 16bit Mono" sampleCount="9828"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_solid_impact_bullet2.wav" itemID="4e916775-000019b3" linkageExportForAS="true" linkageClassName="SoundWoodSolidImpactBullet2" sourceExternalFilepath="./LIBRARY/wood_solid_impact_bullet2.wav" sourceLastImported="1318191637" sourcePlatform="macintosh" externalFileSize="36386" href="Sounds/Physics/Wood/wood_solid_impact_bullet2.wav" soundDataHRef="M 60 1318132566.dat" format="44kHz 16bit Mono" sampleCount="18128"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_solid_impact_bullet3.wav" itemID="4e92009f-000005f0" linkageExportForAS="true" linkageClassName="SoundWoodSolidImpactBullet3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_solid_impact_bullet3.wav" sourceLastImported="1318191639" sourcePlatform="macintosh" externalFileSize="67596" href="Sounds/Physics/Wood/wood_solid_impact_bullet3.wav" soundDataHRef="M 61 1318132566.dat" format="44kHz 16bit Mono" sampleCount="33733"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_solid_impact_bullet4.wav" itemID="4e916775-000019b5" linkageExportForAS="true" linkageClassName="SoundWoodSolidImpactBullet4" sourceExternalFilepath="./LIBRARY/wood_solid_impact_bullet4.wav" sourceLastImported="1318191642" sourcePlatform="macintosh" externalFileSize="13754" href="Sounds/Physics/Wood/wood_solid_impact_bullet4.wav" soundDataHRef="M 62 1318132566.dat" format="22kHz 16bit Mono" sampleCount="6816"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_solid_impact_bullet5.wav" itemID="4e916775-000019b6" linkageExportForAS="true" linkageClassName="SoundWoodSolidImpactBullet5" sourceExternalFilepath="./LIBRARY/wood_solid_impact_bullet5.wav" sourceLastImported="1318191645" sourcePlatform="macintosh" externalFileSize="39304" href="Sounds/Physics/Wood/wood_solid_impact_bullet5.wav" soundDataHRef="M 63 1318132566.dat" format="44kHz 16bit Mono" sampleCount="19587"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_solid_impact_hard1.wav" itemID="4e92009f-000005f1" linkageExportForAS="true" linkageClassName="SoundWoodSolidImpactHard1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_solid_impact_hard1.wav" sourceLastImported="1318191652" sourcePlatform="macintosh" externalFileSize="23962" href="Sounds/Physics/Wood/wood_solid_impact_hard1.wav" soundDataHRef="M 64 1318132566.dat" format="44kHz 16bit Mono" sampleCount="11959"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_solid_impact_hard2.wav" itemID="4e916775-000019b8" linkageExportForAS="true" linkageClassName="SoundWoodSolidImpactHard2" sourceExternalFilepath="./LIBRARY/wood_solid_impact_hard2.wav" sourceLastImported="1318191653" sourcePlatform="macintosh" externalFileSize="26724" href="Sounds/Physics/Wood/wood_solid_impact_hard2.wav" soundDataHRef="M 65 1318132566.dat" format="44kHz 16bit Mono" sampleCount="13340"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_solid_impact_hard3.wav" itemID="4e92009f-000005f2" linkageExportForAS="true" linkageClassName="SoundWoodSolidImpactHard3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_solid_impact_hard3.wav" sourceLastImported="1318191655" sourcePlatform="macintosh" externalFileSize="27972" href="Sounds/Physics/Wood/wood_solid_impact_hard3.wav" soundDataHRef="M 66 1318132566.dat" format="44kHz 16bit Mono" sampleCount="13964"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_solid_impact_soft1.wav" itemID="4e92009f-000005f3" linkageExportForAS="true" linkageClassName="SoundWoodSolidImpactSoft1" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_solid_impact_soft1.wav" sourceLastImported="1318191663" sourcePlatform="macintosh" externalFileSize="41776" href="Sounds/Physics/Wood/wood_solid_impact_soft1.wav" soundDataHRef="M 67 1318132566.dat" format="44kHz 16bit Mono" sampleCount="20866"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_solid_impact_soft2.wav" itemID="4e916775-000019bb" linkageExportForAS="true" linkageClassName="SoundWoodSolidImpactSoft2" sourceExternalFilepath="./LIBRARY/wood_solid_impact_soft2.wav" sourceLastImported="1318191673" sourcePlatform="macintosh" externalFileSize="32044" href="Sounds/Physics/Wood/wood_solid_impact_soft2.wav" soundDataHRef="M 68 1318132566.dat" format="44kHz 16bit Mono" sampleCount="16000"/>
+          <DOMSoundItem name="Sounds/Physics/Wood/wood_solid_impact_soft3.wav" itemID="4e92009f-000005f4" linkageExportForAS="true" linkageClassName="SoundWoodSolidImpactSoft3" sourceExternalFilepath="./LIBRARY/Sounds/Physics/Wood/wood_solid_impact_soft3.wav" sourceLastImported="1318191676" sourcePlatform="macintosh" externalFileSize="33974" href="Sounds/Physics/Wood/wood_solid_impact_soft3.wav" soundDataHRef="M 69 1318132566.dat" format="44kHz 16bit Mono" sampleCount="16965"/>
+     </media>
+     <symbols/>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMGroup>
+                                             <members/>
+                                        </DOMGroup>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <swatchLists>
+          <swatchList>
+               <swatches>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#003300" hue="80" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006600" hue="80" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009900" hue="80" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC00" hue="80" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330000" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333300" hue="40" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#336600" hue="60" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#339900" hue="67" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#33CC00" hue="70" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#33FF00" hue="72" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#660000" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663300" hue="20" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#666600" hue="40" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#669900" hue="53" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#66CC00" hue="60" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#66FF00" hue="64" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000033" hue="160" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#003333" hue="120" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006633" hue="100" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009933" hue="93" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC33" hue="90" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF33" hue="88" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330033" hue="200" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem color="#336633" hue="80" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339933" hue="80" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC33" hue="80" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF33" hue="80" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660033" hue="220" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663333" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666633" hue="40" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#669933" hue="60" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#66CC33" hue="67" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#66FF33" hue="70" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000066" hue="160" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#003366" hue="140" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#006666" hue="120" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009966" hue="107" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC66" hue="100" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF66" hue="96" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330066" hue="180" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#333366" hue="160" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#336666" hue="120" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339966" hue="100" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC66" hue="93" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF66" hue="90" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660066" hue="200" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663366" hue="200" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem color="#669966" hue="80" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC66" hue="80" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF66" hue="80" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000099" hue="160" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#003399" hue="147" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#006699" hue="133" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#009999" hue="120" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC99" hue="110" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF99" hue="104" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330099" hue="173" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#333399" hue="160" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#336699" hue="140" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#339999" hue="120" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC99" hue="107" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF99" hue="100" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660099" hue="187" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#663399" hue="180" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#666699" hue="160" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#669999" hue="120" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC99" hue="100" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF99" hue="93" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000CC" hue="160" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0033CC" hue="150" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0066CC" hue="140" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0099CC" hue="130" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00CCCC" hue="120" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FFCC" hue="112" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300CC" hue="170" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#3333CC" hue="160" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3366CC" hue="147" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3399CC" hue="133" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33CCCC" hue="120" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FFCC" hue="110" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600CC" hue="180" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#6633CC" hue="173" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#6666CC" hue="160" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#6699CC" hue="140" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66CCCC" hue="120" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FFCC" hue="107" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0033FF" hue="152" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0066FF" hue="144" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0099FF" hue="136" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00CCFF" hue="128" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300FF" hue="168" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3333FF" hue="160" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3366FF" hue="150" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3399FF" hue="140" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33CCFF" hue="130" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33FFFF" hue="120" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600FF" hue="176" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#6633FF" hue="170" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6666FF" hue="160" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#6699FF" hue="147" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66CCFF" hue="133" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66FFFF" hue="120" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990000" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993300" hue="13" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#996600" hue="27" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#999900" hue="40" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#99CC00" hue="50" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#99FF00" hue="56" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC0000" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3300" hue="10" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC6600" hue="20" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC9900" hue="30" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCCC00" hue="40" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCFF00" hue="48" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3300" hue="8" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF6600" hue="16" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF9900" hue="24" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFCC00" hue="32" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990033" hue="227" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993333" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996633" hue="20" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#999933" hue="40" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#99CC33" hue="53" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#99FF33" hue="60" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC0033" hue="230" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3333" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6633" hue="13" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC9933" hue="27" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCCC33" hue="40" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCFF33" hue="50" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF0033" hue="232" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3333" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6633" hue="10" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF9933" hue="20" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFCC33" hue="30" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFFF33" hue="40" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990066" hue="213" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993366" hue="220" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996666" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999966" hue="40" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#99CC66" hue="60" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#99FF66" hue="67" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC0066" hue="220" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3366" hue="227" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6666" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9966" hue="20" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCCC66" hue="40" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCFF66" hue="53" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF0066" hue="224" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3366" hue="230" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6666" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9966" hue="13" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFCC66" hue="27" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFFF66" hue="40" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990099" hue="200" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993399" hue="200" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996699" hue="200" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem color="#99CC99" hue="80" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FF99" hue="80" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC0099" hue="210" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3399" hue="213" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6699" hue="220" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9999" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCC99" hue="40" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCFF99" hue="60" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FF0099" hue="216" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3399" hue="220" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6699" hue="227" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9999" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCC99" hue="20" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFFF99" hue="40" saturation="239" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900CC" hue="190" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#9933CC" hue="187" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#9966CC" hue="180" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#9999CC" hue="160" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99CCCC" hue="120" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FFCC" hue="100" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00CC" hue="200" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC33CC" hue="200" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC66CC" hue="200" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC99CC" hue="200" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem color="#CCFFCC" hue="80" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00CC" hue="208" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33CC" hue="210" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66CC" hue="213" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99CC" hue="220" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCCC" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFCC" hue="40" saturation="239" brightness="216"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900FF" hue="184" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#9933FF" hue="180" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#9966FF" hue="173" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#9999FF" hue="160" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99CCFF" hue="140" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99FFFF" hue="120" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00FF" hue="192" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC33FF" hue="190" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC66FF" hue="187" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC99FF" hue="180" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CCCCFF" hue="160" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#CCFFFF" hue="120" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33FF" hue="200" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66FF" hue="200" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99FF" hue="200" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCFF" hue="200" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+               </swatches>
+          </swatchList>
+     </swatchLists>
+     <extendedSwatchLists>
+          <swatchList>
+               <swatches>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#00FF00" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#0000FF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#0066FD" ratio="0"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.376470588235294"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.47843137254902"/>
+                         <GradientEntry color="#996600" ratio="0.501960784313725"/>
+                         <GradientEntry color="#FFCC00" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FFFFFF" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry color="#FFFF00" ratio="0.164705882352941"/>
+                         <GradientEntry color="#00FF00" ratio="0.364705882352941"/>
+                         <GradientEntry color="#00FFFF" ratio="0.498039215686275"/>
+                         <GradientEntry color="#0000FF" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FF00FF" ratio="0.831372549019608"/>
+                         <GradientEntry color="#FF0000" ratio="1"/>
+                    </LinearGradientSwatchItem>
+               </swatches>
+          </swatchList>
+     </extendedSwatchLists>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory>
+          <PublishItem publishSize="140347" publishTime="1318200899"/>
+          <PublishItem publishSize="140347" publishTime="1318200854"/>
+          <PublishItem publishSize="140346" publishTime="1318200819"/>
+          <PublishItem publishSize="140347" publishTime="1318200778"/>
+          <PublishItem publishSize="140346" publishTime="1318200734"/>
+          <PublishItem publishSize="140337" publishTime="1318200688"/>
+          <PublishItem publishSize="140339" publishTime="1318200654"/>
+          <PublishItem publishSize="140339" publishTime="1318200637"/>
+          <PublishItem publishSize="140339" publishTime="1318200570"/>
+          <PublishItem publishSize="140339" publishTime="1318200531"/>
+          <PublishItem publishSize="140338" publishTime="1318200434"/>
+          <PublishItem publishSize="140338" publishTime="1318200346"/>
+          <PublishItem publishSize="38672" publishTime="1318131097"/>
+          <PublishItem publishSize="38669" publishTime="1318129630"/>
+          <PublishItem publishSize="38667" publishTime="1318128832"/>
+          <PublishItem publishSize="38669" publishTime="1318128821"/>
+          <PublishItem publishSize="38669" publishTime="1318126833"/>
+          <PublishItem publishSize="38669" publishTime="1318126825"/>
+          <PublishItem publishSize="38669" publishTime="1318126810"/>
+          <PublishItem publishSize="38664" publishTime="1318126800"/>
+     </publishHistory>
+</DOMDocument>

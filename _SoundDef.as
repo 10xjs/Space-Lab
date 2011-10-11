@@ -1,0 +1,1 @@
+﻿package  {	import flash.media.Sound;		public class SoundDef {				public var sound:Sound;		public var level:Number;		public function SoundDef(sound_:Sound = null,level:Number = 1.0)		{			sound = sound_;			level = level_;		}				public function destroy():void{			sound = null;		}	}	}

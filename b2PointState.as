@@ -1,0 +1,1 @@
+﻿package  {		public class b2PointState{		static const NULL_STATE:uint = 0;		static const REMOVE_STATE:uint = 1;		static const ADD_STATE:uint = 2;		static const PERSIST_STATE:uint = 3;			}	}

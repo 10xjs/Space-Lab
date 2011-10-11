@@ -1,0 +1,1 @@
+﻿package  {		public class EntityCollision {		public function EntityCollision() {			// constructor code		}	}	}

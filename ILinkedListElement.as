@@ -1,0 +1,1 @@
+﻿package  {		public interface ILinkedListElement {		function getNext():Object;		function setNext(e:Object):void;		function getPrev():Object;		function setPrev(e:Object):void;		function getList():LinkedList;		function setList(list:LinkedList):void;	}	}
